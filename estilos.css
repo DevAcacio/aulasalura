@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/534/050/non_2x/abstract-blue-background-low-poly-textured-triangle-shapes-in-random-pattern-trendy-lowpoly-background-vector.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height:100vh;
+  }
+  
+  .menu{
+    background-color: grey;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a{
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-title{
+    text-align: center;
+    color: red;
+  }
+  
+  .site-subtitle{
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+  }
+  
